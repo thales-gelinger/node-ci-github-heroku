@@ -35,4 +35,4 @@ jobs:
     
     - name: Deploy to Heroku
       run: |
-        git push heroku master -f
+        git push heroku master
